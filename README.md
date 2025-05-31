@@ -13,6 +13,49 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ankur-357&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur-357&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## Projects
+
+### [WordCraft](https://wordcraft-beta.vercel.app/)  
+**Tech Stack**: Tailwind CSS, ReactJS  
+**GitHub Repo**: [https://github.com/ankur-357/WordCraft](https://github.com/ankur-357/WordCraft)  
+- Developed and contributed to WordCraft, an advanced text editing tool designed to enhance the writing experience with various useful features.
+
+---
+
+### [SnapStyle](https://snapstyle-green.vercel.app/)  
+**Tech Stack**: Tailwind CSS, ReactJS  
+**GitHub Repo**: [github.com/ankur-357/snapstyle](https://github.com/ankur-357/snapstyle)  
+- Developed SnapStyle, an innovative app that transforms ordinary screenshots into aesthetically pleasing visuals with support for 2K, 4K, and 8K downloads.  
+- Includes an open-source text editor with advanced features such as text statistics tracking, customizable text sizes, auto-saving, and a unique "Magic Transform" tool for content extension.  
+- Offers a variety of professional and personal email templates.
+
+---
+
+### [CritiqueCraze](https://critiquecrazee.vercel.app/)  
+**Tech Stack**: AWS S3, JWT, NodeJS, ExpressJS, ReactJS, MongoDB  
+**GitHub Repo**: [github.com/ankur-357/critiquecraze](https://github.com/ankur-357/critiquecraze)  
+- A full-stack platform for sharing experiences and reviews about places visited.  
+- Features include likes, comments, and view counts for posts.
+
+---
+
+### [BizBoost360](https://bizboost360.vercel.app/)  
+**Tech Stack**: AWS S3, JWT, ReactJS, MongoDB, NodeJS, ExpressJS  
+**GitHub Repo**: [https://github.com/ankur-357/BizBoost360](https://github.com/ankur-357/BizBoost360)  
+- A full-stack business management platform deployed on Vercel.  
+- Provides various CRUD functionalities for seamless inventory and workforce management to assist businesses in their expansion.
+
+---
+
+### [NIT Srinagar Alumni Website](https://nitsrialumni.vercel.app/)  
+**Tech Stack**: Appwrite, JWT, ReactJS, MongoDB, NodeJS, ExpressJS, Flask  
+**GitHub Repo**: [https://github.com/ankur-357/NitSri-Alumni](https://github.com/ankur-357/NitSri-Alumni)  
+- Designed and developed the official alumni website for NIT Srinagar.  
+- Collaborated with college administration to align with branding standards.  
+- Includes features like alumni registration, event announcements, and a searchable alumni database.  
+- Improved alumni engagement through intuitive UX and mobile-responsive design.
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankur-357&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
