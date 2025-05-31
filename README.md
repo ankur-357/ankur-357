@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankur-357
 - 👀 I’m interested in Full stack web development(MERN)
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Mern Projects
 - 📫 How to reach me ...
 - email id : ankurtiwari502@gmail.com
 - linkedin : https://www.linkedin.com/in/ankur-kumar-tiwari-233647190
